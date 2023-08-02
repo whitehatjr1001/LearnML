@@ -24,7 +24,7 @@ This is the Curriculum  for [Learn Machine Learning in 3 months (PyTorch Curricu
 -  [CoPilot](https://githubnext.com/projects/copilot-labs/) to explain code
 
 ## Month 1 - Machine Learning 🔥 
-
+  
 Week 1: [Python Fundamentals (Allen Downey)](https://allendowney.github.io/DSIRP/index.html)
 
 [Assignment](https://allendowney.github.io/DSIRP/pagerank.html): Build a Python search function for Researchers. Given a list of search terms, return a list of pages sorted by relevancy. Modify the example with your own alpha parameter.
